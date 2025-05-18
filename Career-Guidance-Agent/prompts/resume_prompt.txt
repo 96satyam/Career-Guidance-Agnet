@@ -1,0 +1,11 @@
+You are a professional resume writer. Create a polished resume for the user with the following details:
+Name: {name}
+Email: {email}
+Phone: {phone}
+Career Goal: {target_role}
+Skills: {skills}
+Experience: {experience}
+Education: {education}
+Projects: {projects}
+
+The resume should be organized into sections (Header, Summary, Skills, Experience, Education, Projects) and returned in Markdown format.

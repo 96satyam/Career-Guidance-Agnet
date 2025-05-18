@@ -1,0 +1,270 @@
+{
+    "AWS": [
+        "https://www.google.com/search?q=learn+aws",
+        "https://www.youtube.com/results?search_query=aws+tutorial"
+    ],
+    "Adobe XD": [
+        "https://www.google.com/search?q=learn+adobe-xd",
+        "https://www.youtube.com/results?search_query=adobe-xd+tutorial"
+    ],
+    "Agile": [
+        "https://www.google.com/search?q=learn+agile",
+        "https://www.youtube.com/results?search_query=agile+tutorial"
+    ],
+    "Android": [
+        "https://www.google.com/search?q=learn+android",
+        "https://www.youtube.com/results?search_query=android+tutorial"
+    ],
+    "Azure": [
+        "https://www.google.com/search?q=learn+azure",
+        "https://www.youtube.com/results?search_query=azure+tutorial"
+    ],
+    "CI/CD": [
+        "https://www.google.com/search?q=learn+ci/cd",
+        "https://www.youtube.com/results?search_query=ci/cd+tutorial"
+    ],
+    "CSS": [
+        "https://www.google.com/search?q=learn+css",
+        "https://www.youtube.com/results?search_query=css+tutorial"
+    ],
+    "Cloud Infrastructure": [
+        "https://www.google.com/search?q=learn+cloud-infrastructure",
+        "https://www.youtube.com/results?search_query=cloud-infrastructure+tutorial"
+    ],
+    "Communication": [
+        "https://www.google.com/search?q=learn+communication",
+        "https://www.youtube.com/results?search_query=communication+tutorial"
+    ],
+    "Dart": [
+        "https://www.google.com/search?q=learn+dart",
+        "https://www.youtube.com/results?search_query=dart+tutorial"
+    ],
+    "Data Analysis": [
+        "https://www.google.com/search?q=learn+data-analysis",
+        "https://www.youtube.com/results?search_query=data-analysis+tutorial"
+    ],
+    "Deep Learning": [
+        "https://www.google.com/search?q=learn+deep-learning",
+        "https://www.youtube.com/results?search_query=deep-learning+tutorial"
+    ],
+    "Docker": [
+        "https://www.google.com/search?q=learn+docker",
+        "https://www.youtube.com/results?search_query=docker+tutorial"
+    ],
+    "Excel": [
+        "https://www.google.com/search?q=learn+excel",
+        "https://www.youtube.com/results?search_query=excel+tutorial"
+    ],
+    "Figma": [
+        "https://www.google.com/search?q=learn+figma",
+        "https://www.youtube.com/results?search_query=figma+tutorial"
+    ],
+    "Firewalls": [
+        "https://www.google.com/search?q=learn+firewalls",
+        "https://www.youtube.com/results?search_query=firewalls+tutorial"
+    ],
+    "Flutter": [
+        "https://www.google.com/search?q=learn+flutter",
+        "https://www.youtube.com/results?search_query=flutter+tutorial"
+    ],
+    "GCP": [
+        "https://www.google.com/search?q=learn+gcp",
+        "https://www.youtube.com/results?search_query=gcp+tutorial"
+    ],
+    "Git": [
+        "https://www.google.com/search?q=learn+git",
+        "https://www.youtube.com/results?search_query=git+tutorial"
+    ],
+    "HTML": [
+        "https://www.google.com/search?q=learn+html",
+        "https://www.youtube.com/results?search_query=html+tutorial"
+    ],
+    "JIRA": [
+        "https://www.google.com/search?q=learn+jira",
+        "https://www.youtube.com/results?search_query=jira+tutorial"
+    ],
+    "JavaScript": [
+        "https://www.google.com/search?q=learn+javascript",
+        "https://www.youtube.com/results?search_query=javascript+tutorial"
+    ],
+    "Kubernetes": [
+        "https://www.google.com/search?q=learn+kubernetes",
+        "https://www.youtube.com/results?search_query=kubernetes+tutorial"
+    ],
+    "Linux": [
+        "https://www.google.com/search?q=learn+linux",
+        "https://www.youtube.com/results?search_query=linux+tutorial"
+    ],
+    "Machine Learning": [
+        "https://www.google.com/search?q=learn+machine-learning",
+        "https://www.youtube.com/results?search_query=machine-learning+tutorial"
+    ],
+    "Market Research": [
+        "https://www.google.com/search?q=learn+market-research",
+        "https://www.youtube.com/results?search_query=market-research+tutorial"
+    ],
+    "NLP": [
+        "https://www.google.com/search?q=learn+nlp",
+        "https://www.youtube.com/results?search_query=nlp+tutorial"
+    ],
+    "Network Security": [
+        "https://www.google.com/search?q=learn+network-security",
+        "https://www.youtube.com/results?search_query=network-security+tutorial"
+    ],
+    "Node.js": [
+        "https://www.google.com/search?q=learn+node.js",
+        "https://www.youtube.com/results?search_query=node.js+tutorial"
+    ],
+    "NumPy": [
+        "https://www.google.com/search?q=learn+numpy",
+        "https://www.youtube.com/results?search_query=numpy+tutorial"
+    ],
+    "Pandas": [
+        "https://www.google.com/search?q=learn+pandas",
+        "https://www.youtube.com/results?search_query=pandas+tutorial"
+    ],
+    "Penetration Testing": [
+        "https://www.google.com/search?q=learn+penetration-testing",
+        "https://www.youtube.com/results?search_query=penetration-testing+tutorial"
+    ],
+    "Prototyping": [
+        "https://www.google.com/search?q=learn+prototyping",
+        "https://www.youtube.com/results?search_query=prototyping+tutorial"
+    ],
+    "PyTorch": [
+        "https://www.google.com/search?q=learn+pytorch",
+        "https://www.youtube.com/results?search_query=pytorch+tutorial"
+    ],
+    "Python": [
+        "https://www.google.com/search?q=learn+python",
+        "https://www.youtube.com/results?search_query=python+tutorial"
+    ],
+    "React": [
+        "https://www.google.com/search?q=learn+react",
+        "https://www.youtube.com/results?search_query=react+tutorial"
+    ],
+    "React Native": [
+        "https://www.google.com/search?q=learn+react-native",
+        "https://www.youtube.com/results?search_query=react-native+tutorial"
+    ],
+    "Risk Assessment": [
+        "https://www.google.com/search?q=learn+risk-assessment",
+        "https://www.youtube.com/results?search_query=risk-assessment+tutorial"
+    ],
+    "Roadmapping": [
+        "https://www.google.com/search?q=learn+roadmapping",
+        "https://www.youtube.com/results?search_query=roadmapping+tutorial"
+    ],
+    "SQL": [
+        "https://www.google.com/search?q=learn+sql",
+        "https://www.youtube.com/results?search_query=sql+tutorial"
+    ],
+    "Statistics": [
+        "https://www.google.com/search?q=learn+statistics",
+        "https://www.youtube.com/results?search_query=statistics+tutorial"
+    ],
+    "Tableau": [
+        "https://www.google.com/search?q=learn+tableau",
+        "https://www.youtube.com/results?search_query=tableau+tutorial"
+    ],
+    "TensorFlow": [
+        "https://www.google.com/search?q=learn+tensorflow",
+        "https://www.youtube.com/results?search_query=tensorflow+tutorial"
+    ],
+    "Terraform": [
+        "https://www.google.com/search?q=learn+terraform",
+        "https://www.youtube.com/results?search_query=terraform+tutorial"
+    ],
+    "Usability Testing": [
+        "https://www.google.com/search?q=learn+usability-testing",
+        "https://www.youtube.com/results?search_query=usability-testing+tutorial"
+    ],
+    "Wireframing": [
+        "https://www.google.com/search?q=learn+wireframing",
+        "https://www.youtube.com/results?search_query=wireframing+tutorial"
+    ],
+    "iOS": [
+        "https://www.google.com/search?q=learn+ios",
+        "https://www.youtube.com/results?search_query=ios+tutorial"
+    ],
+    "machine learning": [
+        "https://www.coursera.org/learn/machine-learning",
+        "https://www.kaggle.com/learn/intro-to-machine-learning"
+    ],
+    "numpy": [
+        "https://numpy.org/learn/",
+        "https://www.w3schools.com/python/numpy/default.asp"
+    ],
+    "pandas": [
+        "https://pandas.pydata.org/docs/",
+        "https://www.datacamp.com/courses/pandas-foundations"
+    ],
+    "statistics": [
+        "https://www.khanacademy.org/math/statistics-probability",
+        "https://www.coursera.org/learn/statistics"
+    ],
+    "javascript": [
+        "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+        "https://javascript.info/"
+    ],
+    "react": [
+        "https://reactjs.org/",
+        "https://www.freecodecamp.org/learn/front-end-development-libraries/react/"
+    ],
+    "node js": [
+        "https://nodejs.org/en/docs",
+        "https://www.codecademy.com/learn/learn-node-js"
+    ],
+    "git": [
+        "https://www.atlassian.com/git/tutorials",
+        "https://git-scm.com/doc"
+    ],
+    "deep learning": [
+        "https://www.deeplearning.ai/",
+        "https://www.udacity.com/course/deep-learning--ud730"
+    ],
+    "nlp": [
+        "https://www.coursera.org/learn/language-processing",
+        "https://nlp.stanford.edu/"
+    ],
+    "pytorch": [
+        "https://pytorch.org/tutorials/",
+        "https://www.learnpytorch.io/"
+    ],
+    "tensorflow": [
+        "https://www.tensorflow.org/tutorials",
+        "https://developers.google.com/machine-learning/crash-course"
+    ],
+    "communication": [
+        "https://www.coursera.org/learn/wharton-communication-skills",
+        "https://www.skillsyouneed.com/ips/communication-skills.html"
+    ],
+    "data analysis": [
+        "https://www.coursera.org/specializations/data-analysis",
+        "https://www.kaggle.com/learn/data-analysis"
+    ],
+    "excel": [
+        "https://www.excel-easy.com/",
+        "https://www.microsoft.com/en-us/learning/excel-training.aspx"
+    ],
+    "tableau": [
+        "https://www.tableau.com/learn/training",
+        "https://www.datacamp.com/courses/tableau-fundamentals"
+    ],
+    "firewalls": [
+        "https://www.geeksforgeeks.org/firewalls-in-computer-network/",
+        "https://www.coursera.org/lecture/cyber-security-basics/firewalls-KWyQ5"
+    ],
+    "network security": [
+        "https://www.coursera.org/specializations/network-security",
+        "https://www.khanacademy.org/computing/computer-science/internet-intro"
+    ],
+    "penetration testing": [
+        "https://www.edx.org/course/introduction-to-pentest",
+        "https://tryhackme.com/"
+    ],
+    "risk assessment": [
+        "https://www.nibusinessinfo.co.uk/content/conduct-risk-assessment",
+        "https://www.coursera.org/lecture/cyber-security-risk-management/risk-assessment-overview-uPqg2"
+    ]
+}

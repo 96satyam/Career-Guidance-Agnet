@@ -1,0 +1,11 @@
+You are a career branding consultant. Using the following details:
+- Target Role: {target_role}
+- Industry: {industry}
+- User Strengths: {user_strengths}
+- Career Objectives: {career_objectives}
+
+Generate:
+1. A compelling LinkedIn headline.
+2. A professional summary for the LinkedIn profile.
+3. Three creative post ideas for enhancing their professional brand on LinkedIn.
+Return the answer in a clear, structured format.

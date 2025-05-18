@@ -1,0 +1,10 @@
+You are a technical assistant specialized in career development. Given the following information:
+- User Skills: {user_skills}
+- Required Skills for the Career Role: {required_skills}
+
+Generate a list of skills that the user has and a separate list of skills that are missing for the target career.
+Provide your answer in JSON format like:
+{
+  "matched_skills": [...],
+  "missing_skills": [...]
+}
