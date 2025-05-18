@@ -5,11 +5,11 @@ An interactive AI-powered Streamlit app that analyzes your profile, recommends t
 ## 🧠 What is This Project?
 This is a smart Career Guidance Agent built using Large Language Models (LLMs) like OpenAI's GPT. It is designed to:
 
-✅ Understand your profile (education, experience, skills, interests)
-✅ Recommend career paths most aligned with your strengths
-✅ Highlight missing skills using Gap Analysis
-✅ Generate an ATS-friendly Resume Preview
-✅ Craft a personalized LinkedIn Strategy with headline, summary, and content ideas
+#### ✅ Understand your profile (education, experience, skills, interests)
+#### ✅ Recommend career paths most aligned with your strengths
+#### ✅ Highlight missing skills using Gap Analysis
+#### ✅ Generate an ATS-friendly Resume Preview
+#### ✅ Craft a personalized LinkedIn Strategy with headline, summary, and content ideas
 
 ### Built with a mission to empower freshers, final-year students, and job-seekers to take data-driven career decisions using AI.
 
@@ -24,7 +24,7 @@ This is a smart Career Guidance Agent built using Large Language Models (LLMs) l
 ### 🛠 Tech Stack
 Python 3.10+
 
-Streamlit — frontend for fast prototyping
+Streamlit — frontend for fast prototyping 
 
 OpenAI GPT (via API) — core LLM brain
 
@@ -73,7 +73,7 @@ bash
 Copy
 Edit
 export OPENAI_API_KEY=sk-xxxxxxxxxxxxxxxxxxxx
-4. Run the App
+#### 4. Run the App
 bash
 Copy
 Edit
